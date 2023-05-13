@@ -2,7 +2,7 @@ package 정렬;
 
 import java.util.Scanner;
 
-public class N15_P2750_수정렬하기1 {
+public class N015_P2750_수정렬하기1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();
