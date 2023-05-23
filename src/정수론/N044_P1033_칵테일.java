@@ -12,7 +12,7 @@ public class N044_P1033_칵테일 {
         static boolean visited[];
         static long D[];
 
-        public static void main(String[] args) throws Exception {
+        public void main(String[] args) throws Exception {
             Scanner sc = new Scanner(System.in);
             BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
             int N = sc.nextInt();
